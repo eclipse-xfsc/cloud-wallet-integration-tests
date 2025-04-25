@@ -1,0 +1,8 @@
+.idea/
+.coverage
+*.egg-info
+.tmp/
+env.sh
+.screenshots
+.DS_Store
+**/__pycache__/

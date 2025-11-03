@@ -19,7 +19,7 @@ cycler==0.12.1
 dill==0.3.8
 distlib==0.3.8
 docutils==0.20.1
-dominate==2.9.0
+dominate==2.9.1
 -e git+ssh://git@gitlab.eclipse.org/eclipse/xfsc/dev-ops/testing/bdd-executor.git@b647b8f2b857fc21b45455b770193d64c0f61c01#egg=eu_xfsc_bdd
 -e git+https://gitlab.eclipse.org/eclipse/xfsc/personal-credential-manager-cloud/bdd@969bb1980388a6c3cedf17e58cf585e150c2aa47#egg=eu_xfsc_bdd_ppcm&subdirectory=../../../implementations/cpcm
 fhconfparser==2024.1
